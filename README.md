@@ -1,2 +1,2 @@
 # coding-dojo
-This is a test repo for experimenting
+This is a "dojo"-like repo for experimenting with various items!
